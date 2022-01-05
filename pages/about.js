@@ -12,12 +12,12 @@ export default function About() {
         className="px-4"
       >
         <div className="mb-6 text-center text-gray-800 dark:text-white">
-          Hi, I'm Katherine! I am a Software Engineer with a passion for developing web and mobile
-          applications that make a positive impact on peoples lives.
+          Hi, I'm Akshay! I am a chef with a passion for developing unique and interesting recipes web and mobile
+          that make a positive impact on peoples lives.
         </div>
         <div className="text-center text-gray-800 dark:text-white">
-          In addition to coding and learning new tech, I enjoy rock climbing, drinking coffee,
-          playing guitar, reading, and hanging with my dog. If any of these things interest you too,
+          In addition being a chef, I enjoy playing sports, learning about psychology,
+          listening to podcasts, and geeking out on craft beer and boards games. If any of these things interest you too,
           I'd love to chat!
         </div>
       </motion.div>
