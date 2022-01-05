@@ -12,7 +12,7 @@ export default function About() {
         className="px-4"
       >
         <div className="mb-6 text-center text-gray-800 dark:text-white">
-          Hi, I'm Akshay! I am a chef with a passion for developing unique and interesting recipes web and mobile
+          Hi, I'm Akshay! I am a chef with a passion for developing unique and interesting recipes
           that make a positive impact on peoples lives.
         </div>
         <div className="text-center text-gray-800 dark:text-white">
