@@ -44,9 +44,9 @@ export default function Layout({ children }) {
   return (
     <div className="flex flex-col items-center justify-center w-screen h-screen text-gray-800 transition duration-1000 ease-in-out dark:text-white dark:bg-blueGray-700">
       <Head>
-        <title>Katherine Peterson</title>
+        <title>Akshay Bhasin</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <script defer data-domain="akshaybhasin.com" src="https://plausible.io/js/plausible.js"></script>
+        <script defer data-domain="www.akshaybhasin.com" src="https://plausible.io/js/plausible.js"></script>
       </Head>
       <div
         style={{ minWidth: '24rem', maxWidth: '37rem' }}
