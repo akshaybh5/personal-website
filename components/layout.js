@@ -46,7 +46,7 @@ export default function Layout({ children }) {
       <Head>
         <title>Katherine Peterson</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <script defer data-domain="katherinempeterson.com" src="https://plausible.io/js/plausible.js"></script>
+        <script defer data-domain="akshaybhasin.com" src="https://plausible.io/js/plausible.js"></script>
       </Head>
       <div
         style={{ minWidth: '24rem', maxWidth: '37rem' }}
@@ -83,39 +83,20 @@ export default function Layout({ children }) {
         <motion.div layoutId="social-icons" className="flex items-center justify-center">
           <a
             className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://github.com/octokatherine"
+            href="https://github.com/akshaybh5"
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl " icon={faGithub} />
           </a>
           <a
             className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://twitter.com/katherinecodes"
+            href="https://twitter.com/akshaybh5"
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl" icon={faTwitter} />
           </a>
-          <a
-            className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://www.linkedin.com/in/katherine-peterson/"
-            target="_blank"
-          >
-            <FontAwesomeIcon className="mr-6 text-2xl" icon={faLinkedinIn} />
-          </a>
-          {/* <a
-            className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://dev.to/katherinecodes"
-            target="_blank"
-          >
-            <FontAwesomeIcon className="mr-6 text-2xl" icon={faDev} />
-          </a> */}
-          <a
-            className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://blog.katherinempeterson.com"
-            target="_blank"
-          >
-            <FontAwesomeIcon className="mr-6 text-2xl" icon={faPencilAlt} />
-          </a>
+       
+        
         </motion.div>
       </div>
     </div>
