@@ -16,7 +16,7 @@ export default function About() {
           that make a positive impact on peoples lives.
         </div>
         <div className="text-center text-gray-800 dark:text-white">
-          In addition being a chef, I enjoy playing sports, learning about psychology,
+          In addition to being a chef, I enjoy playing sports, learning about psychology,
           listening to podcasts, and geeking out on craft beer and boards games. If any of these things interest you too,
           I'd love to chat!
         </div>
