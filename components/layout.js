@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Head from 'next/head'
-import { faGithub, faTwitter, faLinkedinIn, faDev } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faTwitter, faLinkedinIn, faDev, faWhatsapp, faFacebook } from '@fortawesome/free-brands-svg-icons'
 import { faPencilAlt } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { motion, AnimatePresence } from 'framer-motion'
@@ -94,6 +94,14 @@ export default function Layout({ children }) {
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl" icon={faTwitter} />
+          </a>
+          <a
+            className='text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500'
+            href='https://wa.me/16047259552'
+            target='_blank'
+            rel='noopener noreferrer'
+            aria-label='WhatsApp'>
+            <FontAwesomeIcon className='mr-6 text-2xl' icon={faWhatsapp} />
           </a>
        
         
